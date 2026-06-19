@@ -56,3 +56,15 @@ Nothing in this repository is financial advice.
 Nothing here should be understood as a promise of profit, price performance, listing, or future value.
 
 Every participant is responsible for their own decisions.
+## Public Records
+
+The main public records for NET are documented here:
+
+- [Transparency Log](./TRANSPARENCY.md)
+- [Tokenomics](./TOKENOMICS.md)
+- [Burn Records](./BURNS.md)
+- [Liquidity Records](./LIQUIDITY.md)
+- [Staking Records](./STAKING.md)
+- [Public Wallets](./WALLETS.md)
+- [Roadmap](./ROADMAP.md)
+- [Disclaimer](./DISCLAIMER.md)
