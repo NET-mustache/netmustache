@@ -68,3 +68,24 @@ The main public records for NET are documented here:
 - [Public Wallets](./WALLETS.md)
 - [Roadmap](./ROADMAP.md)
 - [Disclaimer](./DISCLAIMER.md)
+---
+
+# EXIT Protocol
+
+NET research has evolved into a broader open research initiative focused on the future of autonomous finance.
+
+**EXIT Protocol** explores how blockchain can move beyond transaction validation toward agent accountability, evidence-based risk, execution policies, and market integrity.
+
+Current research includes:
+
+- Agent Registry
+- Agent Genealogy
+- Incident Ledger
+- Evidence Standards
+- Risk Profiles
+- Agent Guard
+- Market Integrity
+
+📄 Research Proposal:
+
+research/EXIT_PROTOCOL_OPEN_RESEARCH_PROPOSAL_v0_4_1.md
