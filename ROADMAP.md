@@ -9,6 +9,14 @@ The immediate goal is an understandable, verifiable meme project with original s
 
 No new automated trading, pool funding, staking allocation, paid promotion or recurring service spend is scheduled by this roadmap. These are proposals requiring a concrete purpose, evidence and a defined budget before execution.
 
+## Product decision — 18 October 2026
+
+The current Mirror is a fixed educational example set, not a live AI service. A read-only observation worker does not meet the intended user-facing product need and has not been built or deployed. Autonomous wallet management is not a current capability.
+
+A possible next product is an AI creative editor that turns a user-supplied market claim into original NET satire and a shareable card, with a clear distinction between supplied claims, evidence and unknowns. This remains a hypothesis: it must produce work people prefer to a generic prompt and voluntarily share. Test that demand with the existing culture experiment before adding model/API hosting, token payments or more infrastructure. No such service is currently promised.
+
+Pump.fun’s [Tokenized Agent setting](https://pump.fun/docs/tokenized-agent-disclaimer) automates buybacks and burns; the setting itself does not employ AI. A useful AI service and real demand would have to exist separately. No Tokenized Agent setting was activated and no assets were deposited in this work.
+
 The following roadmap is retained as a historical proposal. It does not establish that the described bots, staking systems, rewards or capabilities are currently deployed.
 
 ---

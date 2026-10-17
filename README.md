@@ -92,7 +92,7 @@ Open http://127.0.0.1:8767/ in your browser. The replay script reads recorded RP
 
 ## NET Mirror v0.1
 
-[Try NET Mirror](https://netmustache.xyz/mirror): three deterministic claim views, public sources, original NET satire, copied observations and browser-generated 1200×1200 PNG cards. This is an educational culture experiment, not an autonomous AI auditor or trading system.
+[Try NET Mirror](https://netmustache.xyz/mirror): three deterministic claim views, public sources, original NET satire, copied observations and browser-generated 1200×1200 PNG cards. This is an educational culture experiment with three fixed examples. No live AI model runs on this page; the AI-claims example is about a market claim, not an AI service. It is not an autonomous auditor or trading system.
 
 - [Published browser component backup](./NETMirror.published.js) — recovered from Framer’s public source map. This is published JavaScript, not the original editable TSX file or a complete native Framer export.
 - [Example original NET card](./net-mirror-ai-2026-10-17.png)
