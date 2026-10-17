@@ -74,8 +74,14 @@ The seven transactions in BURNS.md were verified directly against finalized Sola
 
 - [Transaction-by-transaction evidence](./net-burn-summary-2026-10-17.json)
 - [Saved finalized mint response](./net-mint-snapshot-2026-10-17.json)
-- [Source package and evidence replay tool](./net-site-preview-2026-10-17.zip)
+- [Independent local prototype and evidence replay tool](./net-site-preview-2026-10-17.zip)
 
 Observed total supply at finalized slot 458133360: **899,027,267.092872 NET**, with mint and freeze authorities null. Total supply is not circulating supply. This is a dated snapshot, not a complete audit of holders, liquidity control or historical actions.
 
-The website redesign in the source package (`site/`) is a **local preview**, not a published update to netmustache.xyz. No wallet transaction, bot activation or new paid infrastructure was performed as part of this maintenance work.
+The official Home and Tokenomics pages were published to [netmustache.xyz](https://netmustache.xyz) on 17 October 2026. Desktop and 390px phone checks confirmed the corrected content and working project links. The zip package (`site/`) is a separate local prototype, not an editable native Framer export. No wallet transaction, bot activation or new paid infrastructure was performed as part of this maintenance work.
+
+## NET Mirror and browser reputation — 17 October 2026
+
+NET Mirror v0.1 was published at https://netmustache.xyz/mirror with three deterministic educational claim views and original NET satire. Preset changes and a real 1200×1200 PNG were checked in a browser. The experiment adds no wallet connection, signing, trading execution or external AI API.
+
+Normal Chrome displayed a dangerous-site warning for the domain. The verified Search Console property reported **Deceptive pages**, with **Sample URLs: N/A**. A possible incorrect/stale-classification report was submitted to Google Safe Browsing; the submission-success response was observed. The original trigger and clearance remain **unresolved**. The inspected public HTML/resources are a limited check, not a comprehensive security certification. Broader promotion is deferred until this is resolved.

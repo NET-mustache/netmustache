@@ -2,10 +2,10 @@
 
 The immediate goal is an understandable, verifiable meme project with original satire. More infrastructure is not evidence of more audience interest.
 
-1. Publish a functioning, readable website with the correct NET mint, official project links, manifesto and public records. The new source in `net-site-preview-2026-10-17.zip` (`site/`) is a local preview; Framer publication remains pending.
+1. **Published 17 October 2026:** NET Mirror v0.1 and readable Home and Tokenomics pages on the existing official Framer site, with the full NET mint, manifesto and public-record links. The zip (`site/`) remains an independent local prototype, not a native Framer export.
 2. Reconcile the known public-record gaps. Seven listed burns have been verified; additional historical claims, pool control and token locks require their own transaction evidence.
-3. Run a small culture experiment using the six original satirical lines in the preview. Measure genuine voluntary sharing and returning visitors over a bounded two-week window after publication. Separate owner/test traffic and rewarded activity from organic interest. Do not count token price or artificial activity as proof of demand.
-4. Reassess after that window. If there is no voluntary response, revise the creative direction or distribution before allocating money to more infrastructure.
+3. Resolve the browser-reputation warning recorded in TRANSPARENCY.md before wider promotion. Then test NET Mirror and original NET satire over a bounded two-week window after the release announcement. Measure voluntary public shares and evidence of return interest. Separate owner/test traffic and rewarded activity from organic interest. Existing Framer pageviews can provide context, but no new analytics integration or download-event tracking has been added. Pageviews alone do not identify independent people. Token price and artificial activity are not evidence that the experience is useful.
+4. Reassess after that window. A proposed early continuation signal is at least five voluntary public shares by distinct non-owner accounts and three specific pieces of product feedback, excluding rewarded submissions. This is a small, arbitrary discovery gate, not proof of unique humans, investment demand or token value. If the signal is absent, revise the creative direction or distribution before adding infrastructure. Launchpads, privacy protocols, automated trading and NFT issuance remain deferred pending evidence of a specific need.
 
 No new automated trading, pool funding, staking allocation, paid promotion or recurring service spend is scheduled by this roadmap. These are proposals requiring a concrete purpose, evidence and a defined budget before execution.
 

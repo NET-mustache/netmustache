@@ -71,11 +71,13 @@ The main public records for NET are documented here:
 
 ## Current development snapshot — 17 October 2026
 
-- [Complete NET website source and evidence package](./net-site-preview-2026-10-17.zip) — HTML, existing project artwork, finalized RPC responses and a Python evidence-replay script.
+- [Independent local website prototype and evidence package](./net-site-preview-2026-10-17.zip) — prototype HTML, existing project artwork, finalized RPC responses and a Python evidence-replay script. This is not an export of the editable native Framer project.
 - [Verified listed-burn summary](./net-burn-summary-2026-10-17.json) — 71,000,002.366453 NET across seven listed transactions.
 - [Finalized mint snapshot](./net-mint-snapshot-2026-10-17.json) — dated total-supply and authority observations.
 
-**The website redesign is a local preview. It has not been published to netmustache.xyz.** No wallet transaction, trading bot or new paid infrastructure was activated in this work.
+**The official Home and Tokenomics updates were published to [netmustache.xyz](https://netmustache.xyz) on 17 October 2026 and checked on desktop and a 390px phone viewport.** The zip above remains a separate local prototype; the official site is maintained in the existing native Framer project. No wallet transaction, trading bot or new paid infrastructure was activated in this work.
+
+Official X: [NET @Erchiwj](https://x.com/Erchiwj).
 
 After downloading the source package, run:
 
@@ -87,3 +89,12 @@ python3 -m http.server 8767 --bind 127.0.0.1 --directory site
 ```
 
 Open http://127.0.0.1:8767/ in your browser. The replay script reads recorded RPC responses; it cannot sign or send transactions.
+
+## NET Mirror v0.1
+
+[Try NET Mirror](https://netmustache.xyz/mirror): three deterministic claim views, public sources, original NET satire, copied observations and browser-generated 1200×1200 PNG cards. This is an educational culture experiment, not an autonomous AI auditor or trading system.
+
+- [Published browser component backup](./NETMirror.published.js) — recovered from Framer’s public source map. This is published JavaScript, not the original editable TSX file or a complete native Framer export.
+- [Example original NET card](./net-mirror-ai-2026-10-17.png)
+
+Publication establishes that the experience exists. Organic audience interest and economic demand for NET remain unproven. See the dated browser-reputation status in [TRANSPARENCY.md](./TRANSPARENCY.md).
