@@ -32,7 +32,7 @@ Burn Records
 Burn records should be documented here with transaction links whenever possible.
 
 Date	Amount Burned	Transaction Link	Notes
-To be added	100,000,000 NET	To be added	Public burn record to be verified with transaction link
+Verified 2026-10-17	71,000,002.366453 NET (seven listed transactions)	[BURNS.md](./BURNS.md)	Earlier 100 million claim remains incompletely reconciled
 
 Liquidity Records
 
@@ -66,3 +66,16 @@ It is not a promise of profit.
 It is not a guarantee of future price movement, exchange listing, liquidity, visibility, or market cap.
 
 Every participant is responsible for their own decisions.
+
+
+## Evidence correction — 17 October 2026
+
+The seven transactions in BURNS.md were verified directly against finalized Solana RPC responses. Their subtotal is **71,000,002.366453 NET**. The earlier 100,000,000 NET statement is not fully supported by that list; 28,999,997.633547 NET remains unreconciled relative to that claim. This does not establish that additional burns did not occur.
+
+- [Transaction-by-transaction evidence](./net-burn-summary-2026-10-17.json)
+- [Saved finalized mint response](./net-mint-snapshot-2026-10-17.json)
+- [Source package and evidence replay tool](./net-site-preview-2026-10-17.zip)
+
+Observed total supply at finalized slot 458133360: **899,027,267.092872 NET**, with mint and freeze authorities null. Total supply is not circulating supply. This is a dated snapshot, not a complete audit of holders, liquidity control or historical actions.
+
+The website redesign in the source package (`site/`) is a **local preview**, not a published update to netmustache.xyz. No wallet transaction, bot activation or new paid infrastructure was performed as part of this maintenance work.

@@ -1,0 +1,55 @@
+{
+  "observed_at_utc": "2026-10-17T18:18:54.968932+00:00",
+  "source": "https://api.mainnet-beta.solana.com",
+  "data": {
+    "jsonrpc": "2.0",
+    "result": {
+      "context": {
+        "apiVersion": "4.3.0",
+        "slot": 458133360
+      },
+      "value": {
+        "data": {
+          "parsed": {
+            "info": {
+              "decimals": 6,
+              "extensions": [
+                {
+                  "extension": "metadataPointer",
+                  "state": {
+                    "authority": null,
+                    "metadataAddress": "5pZDTusrC2s16i9Zw8SHFnL4ew4R9C6G5kwmD6vWpump"
+                  }
+                },
+                {
+                  "extension": "tokenMetadata",
+                  "state": {
+                    "additionalMetadata": [],
+                    "mint": "5pZDTusrC2s16i9Zw8SHFnL4ew4R9C6G5kwmD6vWpump",
+                    "name": "Nietzsche\u2019s Mustache",
+                    "symbol": "NET",
+                    "updateAuthority": null,
+                    "uri": "https://ipfs.io/ipfs/bafkreieussv4rcftbqvi3yzgtjkl75ahr4eqcx4bon7g5b5er5cxkfaj4i"
+                  }
+                }
+              ],
+              "freezeAuthority": null,
+              "isInitialized": true,
+              "mintAuthority": null,
+              "supply": "899027267092872"
+            },
+            "type": "mint"
+          },
+          "program": "spl-token-2022",
+          "space": 423
+        },
+        "executable": false,
+        "lamports": 3834960,
+        "owner": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "rentEpoch": 18446744073709551615,
+        "space": 423
+      }
+    },
+    "id": 1
+  }
+}

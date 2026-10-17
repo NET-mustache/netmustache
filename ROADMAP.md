@@ -1,3 +1,20 @@
+# NET current priorities — 17 October 2026
+
+The immediate goal is an understandable, verifiable meme project with original satire. More infrastructure is not evidence of more audience interest.
+
+1. Publish a functioning, readable website with the correct NET mint, official project links, manifesto and public records. The new source in `net-site-preview-2026-10-17.zip` (`site/`) is a local preview; Framer publication remains pending.
+2. Reconcile the known public-record gaps. Seven listed burns have been verified; additional historical claims, pool control and token locks require their own transaction evidence.
+3. Run a small culture experiment using the six original satirical lines in the preview. Measure genuine voluntary sharing and returning visitors over a bounded two-week window after publication. Separate owner/test traffic and rewarded activity from organic interest. Do not count token price or artificial activity as proof of demand.
+4. Reassess after that window. If there is no voluntary response, revise the creative direction or distribution before allocating money to more infrastructure.
+
+No new automated trading, pool funding, staking allocation, paid promotion or recurring service spend is scheduled by this roadmap. These are proposals requiring a concrete purpose, evidence and a defined budget before execution.
+
+The following roadmap is retained as a historical proposal. It does not establish that the described bots, staking systems, rewards or capabilities are currently deployed.
+
+---
+
+## Historical roadmap
+
 NET Roadmap
 
 This document outlines the public roadmap for Nietzsche’s Mustache (NET).

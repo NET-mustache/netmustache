@@ -3,7 +3,7 @@ NET Tokenomics
 This document explains the basic token structure of Nietzsche’s Mustache (NET).
 
 NET is a meme token on Solana.
-It is not a security, not a bank, not a protocol, and not a yield product.
+This repository does not offer a bank account, a protocol service or a yield product. A project description does not determine legal classification.
 
 Token Information
 
@@ -19,18 +19,21 @@ Supply
 NET was created as a fixed-supply Solana token.
 
 * Initial Supply: 1,000,000,000 NET
-* Mint Authority: No future minting is intended
+* Mint Authority: null in the finalized snapshot at slot 458133360 (17 October 2026)
+* Freeze Authority: null in the same snapshot
+* Observed Total Supply: 899,027,267.092872 NET (total supply, not circulating supply)
 * Token Type: Meme token
 * Distribution: Public market launch through Pump.fun
 
 Burns
 
-Burns reduce the circulating supply permanently.
+A token burn reduces total supply. The effect on a circulating-supply estimate depends on how that estimate classifies the burned tokens.
 
 The builder has publicly stated that NET burns are part of the long-term transparency and supply discipline plan.
 
-* Reported Burned Amount: 100,000,000 NET
-* Burn Records: Transaction links should be documented in TRANSPARENCY.md
+* Earlier Reported Burned Amount: 100,000,000 NET (not fully reconciled)
+* Verified Subtotal: 71,000,002.366453 NET across the seven transactions in BURNS.md
+* Burn Records: [BURNS.md](./BURNS.md) and [reproducible evidence](./net-burn-summary-2026-10-17.json)
 
 Liquidity
 

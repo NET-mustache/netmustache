@@ -68,3 +68,22 @@ The main public records for NET are documented here:
 - [Public Wallets](./WALLETS.md)
 - [Roadmap](./ROADMAP.md)
 - [Disclaimer](./DISCLAIMER.md)
+
+## Current development snapshot — 17 October 2026
+
+- [Complete NET website source and evidence package](./net-site-preview-2026-10-17.zip) — HTML, existing project artwork, finalized RPC responses and a Python evidence-replay script.
+- [Verified listed-burn summary](./net-burn-summary-2026-10-17.json) — 71,000,002.366453 NET across seven listed transactions.
+- [Finalized mint snapshot](./net-mint-snapshot-2026-10-17.json) — dated total-supply and authority observations.
+
+**The website redesign is a local preview. It has not been published to netmustache.xyz.** No wallet transaction, trading bot or new paid infrastructure was activated in this work.
+
+After downloading the source package, run:
+
+```sh
+unzip net-site-preview-2026-10-17.zip -d net-preview
+cd net-preview
+python3 tools/verify_burns.py evidence/2026-10-17
+python3 -m http.server 8767 --bind 127.0.0.1 --directory site
+```
+
+Open http://127.0.0.1:8767/ in your browser. The replay script reads recorded RPC responses; it cannot sign or send transactions.

@@ -1,60 +1,37 @@
-NET Burn Records
+# NET Burn Records
 
-This document records public burn actions for Nietzsche’s Mustache (NET).
+Nietzsche’s Mustache (NET) on Solana.
 
-Burns are documented to keep the project history visible, transparent, and verifiable on-chain.
+Mint: `5pZDTusrC2s16i9Zw8SHFnL4ew4R9C6G5kwmD6vWpump`
 
-Token Information
+## Verified listed transactions — 17 October 2026
 
-* Name: Nietzsche’s Mustache
-* Ticker: NET
-* Chain: Solana
-* Token Address: 5pZDTusrC2s16i9Zw8SHFnL4ew4R9C6G5kwmD6vWpump
-* Token Explorer: https://solscan.io/token/5pZDTusrC2s16i9Zw8SHFnL4ew4R9C6G5kwmD6vWpump
+The seven transactions below were queried directly from Solana mainnet using `getTransaction`, `encoding: jsonParsed`, and `commitment: finalized`. Each transaction succeeded and contains a Token-2022 `burnChecked` instruction for the NET mint. Amounts use integer raw units and 6 decimals.
 
-Burn Tool
+**Verified subtotal of these seven transactions: 71,000,002.366453 NET.**
 
-* Burn Tool Used: https://www.soltokencreator.io/
+| # | UTC date | Verified NET burned | Transaction |
+| --- | --- | ---: | --- |
+| 1 | 2026-05-13 | 1000000 | [Solscan](https://solscan.io/tx/4ZrUv1cEps3SDGGoeJNPe3D1UdQeYbSSS32KmijeRuwviMhg9Lg5wrZFZEmdFRjdRXz3pfTA46nbz2bKHjUn4Wdk) |
+| 2 | 2026-05-13 | 1000000 | [Solscan](https://solscan.io/tx/2qwg5uZVVNSqwrWvy3a3D39fHkX3bgszWxpU4Up3dqCPUsY5S1JwX7tPG7rM7ae7Q5hVUVjs9EoQ1xBnAyhtTSDJ) |
+| 3 | 2026-05-13 | 8000000 | [Solscan](https://solscan.io/tx/3uiVGWL64RKnMd42a3kStaA2akiaedrfGx4mRuUYZa2ZcxDqHYVS3CFrZ5oHh6ozgkvGYzX8HLLrwSnE6DHWmThY) |
+| 4 | 2026-05-14 | 10000000 | [Solscan](https://solscan.io/tx/5t2G9LhJinLCyPfePYe1QeL3P43XAs2MQ964NFX8y58748qrqyB625P3CxnkXCg3Z44VNLcsdq68mX3t2fsk1sAD) |
+| 5 | 2026-05-16 | 2.366453 | [Solscan](https://solscan.io/tx/ncJMTSDFDMxwYHy7CqLBkfcAHX71VWS3TygofvYDrZbY8SbDzYuUh67JUPEhGyNAQJWF6JcnqXsFFzbY8UC3kXL) |
+| 6 | 2026-05-16 | 15000000 | [Solscan](https://solscan.io/tx/46wWLhSM77uSfNf77aS2RY8RrULt1HQyyNfASb1CH6Yib1o9aijVVcWE2kLNGLbZj89gSg5e6VXGf3UAXyDTZejo) |
+| 7 | 2026-06-16 | 36000000 | [Solscan](https://solscan.io/tx/2QqUWe6bdZR7PxGFz1keP5D3GrZAcZHpBoy6Y2PhaoWEYb4c7rPGWgjy36gte5meRZtrqg4vMSbfjm85DAcDQjjb) |
 
-Burn Summary
+## Reconciliation with the earlier claim
 
-* Reported Total Burned: 100,000,000 NET
-* Burn Transaction Count: 7
-* Verification Status: Public Solscan transaction records added
-* Purpose: Supply reduction, transparency, and long-term project discipline
+An earlier version of this document reported 100,000,000 NET burned across these seven transactions. Their verified subtotal is 71,000,002.366453 NET, leaving 28,999,997.633547 NET of that claim unsupported by this particular list.
 
-Burn Records
+This is a correction to the evidence status, not a claim that additional burns did not occur. This review covers only these seven transaction signatures; it is not an exhaustive audit of all NET burns or wallets. Additional transaction records are needed to reconcile the earlier total.
 
-#	Status	Token	Transaction Signature	Transaction Link	Notes
-1	Public Solscan burn record	NET	4ZrUv1cEps3SDGGoeJNPe3D1UdQeYbSSS32KmijeRuwviMhg9Lg5wrZFZEmdFRjdRXz3pfTA46nbz2bKHjUn4Wdk	https://solscan.io/tx/4ZrUv1cEps3SDGGoeJNPe3D1UdQeYbSSS32KmijeRuwviMhg9Lg5wrZFZEmdFRjdRXz3pfTA46nbz2bKHjUn4Wdk	NET burn transaction record
-2	Public Solscan burn record	NET	2qwg5uZVVNSqwrWvy3a3D39fHkX3bgszWxpU4Up3dqCPUsY5S1JwX7tPG7rM7ae7Q5hVUVjs9EoQ1xBnAyhtTSDJ	https://solscan.io/tx/2qwg5uZVVNSqwrWvy3a3D39fHkX3bgszWxpU4Up3dqCPUsY5S1JwX7tPG7rM7ae7Q5hVUVjs9EoQ1xBnAyhtTSDJ	NET burn transaction record
-3	Public Solscan burn record	NET	3uiVGWL64RKnMd42a3kStaA2akiaedrfGx4mRuUYZa2ZcxDqHYVS3CFrZ5oHh6ozgkvGYzX8HLLrwSnE6DHWmThY	https://solscan.io/tx/3uiVGWL64RKnMd42a3kStaA2akiaedrfGx4mRuUYZa2ZcxDqHYVS3CFrZ5oHh6ozgkvGYzX8HLLrwSnE6DHWmThY	NET burn transaction record
-4	Public Solscan burn record	NET	5t2G9LhJinLCyPfePYe1QeL3P43XAs2MQ964NFX8y58748qrqyB625P3CxnkXCg3Z44VNLcsdq68mX3t2fsk1sAD	https://solscan.io/tx/5t2G9LhJinLCyPfePYe1QeL3P43XAs2MQ964NFX8y58748qrqyB625P3CxnkXCg3Z44VNLcsdq68mX3t2fsk1sAD	NET burn transaction record
-5	Public Solscan burn record	NET	ncJMTSDFDMxwYHy7CqLBkfcAHX71VWS3TygofvYDrZbY8SbDzYuUh67JUPEhGyNAQJWF6JcnqXsFFzbY8UC3kXL	https://solscan.io/tx/ncJMTSDFDMxwYHy7CqLBkfcAHX71VWS3TygofvYDrZbY8SbDzYuUh67JUPEhGyNAQJWF6JcnqXsFFzbY8UC3kXL	NET burn transaction record
-6	Public Solscan burn record	NET	46wWLhSM77uSfNf77aS2RY8RrULt1HQyyNfASb1CH6Yib1o9aijVVcWE2kLNGLbZj89gSg5e6VXGf3UAXyDTZejo	https://solscan.io/tx/46wWLhSM77uSfNf77aS2RY8RrULt1HQyyNfASb1CH6Yib1o9aijVVcWE2kLNGLbZj89gSg5e6VXGf3UAXyDTZejo	NET burn transaction record
-7	Public Solscan burn record	NET	2QqUWe6bdZR7PxGFz1keP5D3GrZAcZHpBoy6Y2PhaoWEYb4c7rPGWgjy36gte5meRZtrqg4vMSbfjm85DAcDQjjb	https://solscan.io/tx/2QqUWe6bdZR7PxGFz1keP5D3GrZAcZHpBoy6Y2PhaoWEYb4c7rPGWgjy36gte5meRZtrqg4vMSbfjm85DAcDQjjb	NET burn transaction record
+At finalized mint-account slot 458133360 on 17 October 2026, observed total supply was 899,027,267.092872 NET, with mint and freeze authorities null. That snapshot does not, by itself, establish the amounts, actors or dates of all historical burns. Total supply is not the same as circulating supply.
 
-Verification Method
+## Verification
 
-Each burn transaction can be verified by checking:
+Check the signature, successful transaction status, Token-2022 program, NET mint, parsed burn instruction, raw amount and decimals. Use the transaction links above; do not infer burn amounts from a wallet transfer alone.
 
-* NET token address
-* SPL token burn activity
-* Token balance changes
-* Transaction signature
-* Block time
-* Amount burned
+Historical burn-tool reference: https://www.soltokencreator.io/ . This is a historical record, not a recommendation to connect a wallet.
 
-Notes
-
-The burn transaction links above were added as public Solscan records for transparency.
-
-The reported total burned amount is 100,000,000 NET across the listed burn transactions.
-
-Disclaimer
-
-This document is for transparency only.
-
-Burns do not guarantee price growth, future value, liquidity, exchange listings, visibility, or market performance.
-
-Nothing here is financial advice.
+Burns do not guarantee price growth, liquidity, listings or future value. NET is a speculative meme token. Nothing here is a promise of returns.

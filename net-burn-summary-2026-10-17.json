@@ -1,0 +1,54 @@
+{
+  "mint": "5pZDTusrC2s16i9Zw8SHFnL4ew4R9C6G5kwmD6vWpump",
+  "observed_at_utc": "2026-10-17T18:22:50.534074+00:00",
+  "source_rpc": "https://api.mainnet-beta.solana.com",
+  "commitment": "finalized",
+  "verified_listed_burns_net": "71000002.366453",
+  "previously_reported_net": "100000000",
+  "difference_from_previous_claim_net": "28999997.633547",
+  "scope": "Only the seven transactions listed in BURNS.md. Not an exhaustive token history audit.",
+  "records": [
+    {
+      "signature": "4ZrUv1cEps3SDGGoeJNPe3D1UdQeYbSSS32KmijeRuwviMhg9Lg5wrZFZEmdFRjdRXz3pfTA46nbz2bKHjUn4Wdk",
+      "amount_net": "1000000",
+      "date_utc": "2026-05-13T16:46:27+00:00",
+      "url": "https://solscan.io/tx/4ZrUv1cEps3SDGGoeJNPe3D1UdQeYbSSS32KmijeRuwviMhg9Lg5wrZFZEmdFRjdRXz3pfTA46nbz2bKHjUn4Wdk"
+    },
+    {
+      "signature": "2qwg5uZVVNSqwrWvy3a3D39fHkX3bgszWxpU4Up3dqCPUsY5S1JwX7tPG7rM7ae7Q5hVUVjs9EoQ1xBnAyhtTSDJ",
+      "amount_net": "1000000",
+      "date_utc": "2026-05-13T16:49:29+00:00",
+      "url": "https://solscan.io/tx/2qwg5uZVVNSqwrWvy3a3D39fHkX3bgszWxpU4Up3dqCPUsY5S1JwX7tPG7rM7ae7Q5hVUVjs9EoQ1xBnAyhtTSDJ"
+    },
+    {
+      "signature": "3uiVGWL64RKnMd42a3kStaA2akiaedrfGx4mRuUYZa2ZcxDqHYVS3CFrZ5oHh6ozgkvGYzX8HLLrwSnE6DHWmThY",
+      "amount_net": "8000000",
+      "date_utc": "2026-05-13T16:51:57+00:00",
+      "url": "https://solscan.io/tx/3uiVGWL64RKnMd42a3kStaA2akiaedrfGx4mRuUYZa2ZcxDqHYVS3CFrZ5oHh6ozgkvGYzX8HLLrwSnE6DHWmThY"
+    },
+    {
+      "signature": "5t2G9LhJinLCyPfePYe1QeL3P43XAs2MQ964NFX8y58748qrqyB625P3CxnkXCg3Z44VNLcsdq68mX3t2fsk1sAD",
+      "amount_net": "10000000",
+      "date_utc": "2026-05-14T16:08:05+00:00",
+      "url": "https://solscan.io/tx/5t2G9LhJinLCyPfePYe1QeL3P43XAs2MQ964NFX8y58748qrqyB625P3CxnkXCg3Z44VNLcsdq68mX3t2fsk1sAD"
+    },
+    {
+      "signature": "ncJMTSDFDMxwYHy7CqLBkfcAHX71VWS3TygofvYDrZbY8SbDzYuUh67JUPEhGyNAQJWF6JcnqXsFFzbY8UC3kXL",
+      "amount_net": "2.366453",
+      "date_utc": "2026-05-16T06:30:26+00:00",
+      "url": "https://solscan.io/tx/ncJMTSDFDMxwYHy7CqLBkfcAHX71VWS3TygofvYDrZbY8SbDzYuUh67JUPEhGyNAQJWF6JcnqXsFFzbY8UC3kXL"
+    },
+    {
+      "signature": "46wWLhSM77uSfNf77aS2RY8RrULt1HQyyNfASb1CH6Yib1o9aijVVcWE2kLNGLbZj89gSg5e6VXGf3UAXyDTZejo",
+      "amount_net": "15000000",
+      "date_utc": "2026-05-16T10:47:03+00:00",
+      "url": "https://solscan.io/tx/46wWLhSM77uSfNf77aS2RY8RrULt1HQyyNfASb1CH6Yib1o9aijVVcWE2kLNGLbZj89gSg5e6VXGf3UAXyDTZejo"
+    },
+    {
+      "signature": "2QqUWe6bdZR7PxGFz1keP5D3GrZAcZHpBoy6Y2PhaoWEYb4c7rPGWgjy36gte5meRZtrqg4vMSbfjm85DAcDQjjb",
+      "amount_net": "36000000",
+      "date_utc": "2026-06-16T17:38:42+00:00",
+      "url": "https://solscan.io/tx/2QqUWe6bdZR7PxGFz1keP5D3GrZAcZHpBoy6Y2PhaoWEYb4c7rPGWgjy36gte5meRZtrqg4vMSbfjm85DAcDQjjb"
+    }
+  ]
+}
